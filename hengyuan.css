@@ -1,0 +1,169 @@
+body,ul,li{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+dd, dl, menu, ol, ul {
+    list-style: none;
+    list-style-image: none;
+}
+a{text-decoration:none}
+/* top */
+#top-table{
+    height: 40px;
+}
+#top-bar {
+    line-height: 40px;
+    background: #e8e8e8 none repeat center center;
+    color: #0f3fa1;
+    font-size: 12px;
+    
+}
+#top-bar .top-wrap {
+    max-width: 1280px;
+    height: 36px;
+    margin: 0 auto;
+}
+.mini-top-left{
+    margin-right: 40px;
+    float: left;
+    background: #e8e8e8 none repeat center center;
+    display: block;
+    
+}
+.top-left{
+    line-height: 36px;
+    width: 226.01px;
+    margin-left:40px;
+    float: left;
+    background: #e8e8e8 none repeat center center;
+}
+
+.top-right{
+    border: 1px solid #ccc;
+    padding-top: px;
+    padding-bottom: px;
+    height: 25px; 
+    width: 220px;
+    margin-right: 40px;
+    float: right;
+    background: #e8e8e8 none repeat center center;
+    font-size: 12px;
+}
+.assistive-text{
+    height: 25px; 
+    width: 220px;
+}
+
+/* header */
+#header {
+    background: #ffffff none repeat center top;
+    border-bottom: 1px 0 #dadee1;
+    position: relative;
+    width: 1519.2px;
+    height: 170.4px;
+}
+.headerlogo{
+    height: 100%;
+    width: 50%;
+}
+.wf-wrap {
+    height: 120px;
+    width: 1519px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0px 0px 0px 0px;
+    
+}
+.logospan{
+    margin-top: 30px;
+    margin-left:65px ;
+    height: 62.8px;
+    width: 225.79px;  
+}
+.logospans{
+    margin-top: -80px;
+    margin-left:300px ;
+    height: 63.2px;
+    width: 299.2px;
+}
+.headerright{
+    height: 80px;
+    width: 597px;
+    margin-top: -130px;
+    margin-left: 50%;
+}
+.header-nav{
+    margin-top: -30px;
+    height: 50px;
+    width: 1519.2px;
+    bottom: 0px;
+    background-color: #0e1b84;
+}
+#navigation{
+    width: 1190px;
+    height: 50px;
+    
+    margin-left: 164.6px;
+}
+.nav-1{
+    width: 97px;
+    height: 50px;
+    background: #1828a0;
+}
+.nav-2{
+    width: 127px;
+    height: 50px;
+    margin-top:-50px ;
+    margin-left: 97px;
+}
+.nav-3{
+    width: 127px;
+    height: 50px;
+    margin-top:-50px ;
+    margin-left: 224px;
+}
+.nav-4{
+    width: 127px;
+    height: 50px;
+    margin-top:-50px ;
+    margin-left: 351px;
+}
+.nav-5{
+    width: 127px;
+    height: 50px;
+    margin-top:-50px ;
+    margin-left: 478px;
+}
+.nav-6{
+    width: 127px;
+    height: 50px;
+    margin-top:-50px ;
+    margin-left: 605px;
+}
+.nav-7{
+    width: 127px;
+    height: 50px;
+    margin-top:-50px ;
+    margin-left: 732px;
+}
+.nav-8{
+    width: 127px;
+    height: 50px;
+    margin-top:-50px ;
+    margin-left: 859px;
+}
+
+
+/* section */
+.wheel{
+    width: 1519.2px;
+    height: 449px;
+    margin-top:-30px ;
+
+}
+.product{
+    width: 1519.2px;
+    height: 213.6px;
+    border: 1px solid green;
+}
